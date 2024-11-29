@@ -79,7 +79,7 @@ void EmployeeManagement::menu() {
     while (true) {
         int choice;
         system("cls");
-        cout << "\n\tEmployee Management System with File Handling\n";
+        cout << "\n\tEmployee Management System\n";
         cout << "-----------------------------------------------\n";
         cout << "1. Add New Employee Record\n";
         cout << "2. Display All Employee Records\n";
